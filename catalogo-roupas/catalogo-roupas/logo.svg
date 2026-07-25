@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="120" viewBox="0 0 380 120">
+  <defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c49d57" />
+      <stop offset="40%" stop-color="#e4bf72" />
+      <stop offset="70%" stop-color="#f7d18c" />
+      <stop offset="100%" stop-color="#d39c54" />
+    </linearGradient>
+  </defs>
+  <rect width="380" height="120" rx="24" fill="#ffffff" />
+  <circle cx="66" cy="60" r="42" fill="#f7ede6" stroke="#f1d7c7" stroke-width="5" />
+  <text x="66" y="72" text-anchor="middle" font-family="'Playfair Display', serif" font-size="42" fill="url(#goldGradient)">N</text>
+  <text x="132" y="52" font-family="'Playfair Display', serif" font-size="30" font-weight="700" letter-spacing="0.02em" fill="url(#goldGradient)">Natty</text>
+  <text x="132" y="80" font-family="'Inter', sans-serif" font-size="12" letter-spacing="0.16em" fill="#8d6f63">Moda Feminina</text>
+</svg>
